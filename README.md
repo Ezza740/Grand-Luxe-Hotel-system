@@ -93,9 +93,10 @@ you have ordered pizza
 5) No real hotel database
  
    Future Improvements:
- 1)Add total bill calculation
+
+ 1) Add total bill calculation
  2) Add loop for multiple orders
- 3)Input validation
+ 3) Input validation
  4) Display full order summary
  5) Save data using file handling
  6) Convert into GUI application
