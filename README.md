@@ -92,7 +92,7 @@ you have ordered pizza
 4) Hardcoded menu and prices
 5) No real hotel database
  
-   Future Improvements:
+ Future Improvements:
 
  1) Add total bill calculation
  2) Add loop for multiple orders
